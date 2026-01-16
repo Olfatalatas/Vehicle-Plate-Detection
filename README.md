@@ -21,8 +21,11 @@ Sistem ini bekerja melalui *pipeline* pemrosesan citra bertahap untuk memastikan
 
 ## 📸 Results Preview
 
-> *Note: Ganti teks ini dengan gambar screenshot hasil deteksi Anda (misal: Gambar asli di kiri, hasil crop plat di kanan).*
-> ![ANPR Result Demo](result_preview.png)
+<img width="258" height="216" alt="image" src="https://github.com/user-attachments/assets/9d975489-e761-4cff-bbbc-71a1772c3e6f" /> <img width="258" height="122" alt="image" src="https://github.com/user-attachments/assets/5948b62b-3197-4883-8f8c-4a9691a6e0a6" /> <img width="190" height="18" alt="image" src="https://github.com/user-attachments/assets/65913d98-02a7-42ce-b5f9-c8934a66f75f" />
+
+
+
+
 
 **Accuracy Note:** Sistem bekerja optimal pada kondisi pencahayaan cukup dan sudut pengambilan gambar yang tegak lurus.
 
